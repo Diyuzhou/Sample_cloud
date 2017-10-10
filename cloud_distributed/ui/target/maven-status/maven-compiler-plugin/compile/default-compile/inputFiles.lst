@@ -1,0 +1,6 @@
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/UiApplication.java
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/service/PersonHystrixService.java
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/service/PersonService.java
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/service/SomeHystrixService.java
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/domain/Person.java
+/Users/elvin/eclipse-workspace/cloud_distributed/ui/src/main/java/com/elvin/cloud/ui/controller/UiController.java

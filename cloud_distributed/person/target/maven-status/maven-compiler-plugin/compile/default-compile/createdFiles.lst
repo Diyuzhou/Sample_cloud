@@ -1,0 +1,4 @@
+com/elvin/cloud/person/PersonApplication.class
+com/elvin/cloud/person/domain/Person.class
+com/elvin/cloud/person/controller/PersonController.class
+com/elvin/cloud/person/dao/PersonRepository.class

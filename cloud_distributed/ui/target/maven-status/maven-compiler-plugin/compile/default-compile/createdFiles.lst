@@ -1,0 +1,6 @@
+com/elvin/cloud/ui/domain/Person.class
+com/elvin/cloud/ui/service/PersonService.class
+com/elvin/cloud/ui/service/SomeHystrixService.class
+com/elvin/cloud/ui/UiApplication.class
+com/elvin/cloud/ui/controller/UiController.class
+com/elvin/cloud/ui/service/PersonHystrixService.class
